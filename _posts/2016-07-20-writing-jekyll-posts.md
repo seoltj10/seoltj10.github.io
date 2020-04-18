@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Test post"
 date: 2020-04-18 17:46:200 -0400
 categories: jekyll update
 ---
