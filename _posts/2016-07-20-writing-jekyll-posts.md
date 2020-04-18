@@ -1,6 +1,6 @@
 ---
 title: "Test post"
-date: 2020-04-18 17:46:200 -0400
+date: 2020-04-18 17:46:20 +0900
 categories: jekyll update
 ---
 #woooow
