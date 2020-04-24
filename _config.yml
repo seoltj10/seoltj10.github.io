@@ -101,10 +101,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:seoltj10@kaist.ac.kr
+      # url: mailto:seoltj10@kaist.ac.kr
     - label: "Lab website"
       icon: "fas fa-fw fa-link"
-      url: "http://dlim.kaist.ac.kr/contents/"
+      # url: "http://dlim.kaist.ac.kr/contents/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
