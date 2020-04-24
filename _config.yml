@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "Short memos for biology"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : 'Studying molecular biology, SLOWLY getting started with bioinfo and data visualization'
 name                     : "Taejun Seol"
-description              : "An amazing website."
+description              : "공부하면서 가볍게 정리해두는 곳"
 url                      : "https://seoltj10.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taejun Seol"
+  name             : "Tj"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "BIO"
   location         : "Daejeon, South Korea"
@@ -101,10 +101,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:seoltj10@kaist.ac.kr
+      url: mailto:seoltj10@kaist.ac.kr
     - label: "Lab website"
       icon: "fas fa-fw fa-link"
-      # url: "http://dlim.kaist.ac.kr/contents/"
+      url: "http://dlim.kaist.ac.kr/contents/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
