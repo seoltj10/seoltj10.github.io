@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tj"
+  name             : "TJ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Studying molecular biology, SLOWLY getting started with bioinfo and data visualization"
+  bio              : "Studying molecular biology, \n SLOWLY getting know bioinfo and data visualization"
   location         : "Daejeon, South Korea"
   email            : "seoltj10@kaist.ac.kr"
   links:
