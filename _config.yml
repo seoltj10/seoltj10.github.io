@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Short memos for biology"
 title_separator          : "-"
-subtitle                 : 'Studying molecular biology, SLOWLY getting started with bioinfo and data visualization'
+subtitle                 : '공부하면서 가볍게 정리해두는 곳'
 name                     : "Taejun Seol"
-description              : "공부하면서 가볍게 정리해두는 곳"
+description              : ""
 url                      : "https://seoltj10.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Tj"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "BIO"
+  bio              : "Studying molecular biology, SLOWLY getting started with bioinfo and data visualization"
   location         : "Daejeon, South Korea"
   email            : "seoltj10@kaist.ac.kr"
   links:
