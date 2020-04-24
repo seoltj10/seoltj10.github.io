@@ -5,9 +5,9 @@ categories: jekyll update
 ---
 #woooow
 
-​<pre><code>
+~~~ python
 def print_hi(name):
   print("hello", name)
 print_hi('Tom')
-</code></pre>
+~~~
 
