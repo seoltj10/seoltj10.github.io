@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Short memos for biology"
 title_separator          : "-"
 subtitle                 : '공부하면서 가볍게 정리해두는 곳'
-name                     : "Taejun Seol"
+name                     : "TJ"
 description              : ""
 url                      : "https://seoltj10.github.io"
 baseurl                  : ""
@@ -107,7 +107,7 @@ author:
       url: "http://dlim.kaist.ac.kr/contents/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/seoltj10"
 
 # Site Footer
 footer:
